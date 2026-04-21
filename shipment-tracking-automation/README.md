@@ -1,5 +1,11 @@
 # 📦 Shipment Tracking Automation (Python)
 
+🔒 Code & Data Availability
+
+This project involves API integration and sensitive operational data. To ensure data confidentiality, the full implementation and datasets are not included in this public repository.
+
+💻 A live demo and detailed walkthrough can be provided during interviews upon request.
+
 ## 📌 Overview
 Developed a Python-based automation solution to track DHL shipments in bulk using tracking IDs from Excel. The solution dynamically generates tracking links, extracts key shipment details (status, last update, origin, destination), and outputs a structured report for efficient monitoring and analysis.
 
