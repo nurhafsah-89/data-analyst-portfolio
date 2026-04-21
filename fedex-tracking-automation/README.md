@@ -1,5 +1,11 @@
 # 📦 FedEx Shipment Tracking Automation (Excel + API)
 
+🔒 Code & Data Availability
+
+This project involves API integration and sensitive operational data. To ensure data confidentiality, the full implementation and datasets are not included in this public repository.
+
+💻 A live demo and detailed walkthrough can be provided during interviews upon request.
+
 ## 📌 Overview
 Developed an Excel-based FedEx shipment tracking automation integrated with FedEx API. The solution enables batch tracking number input with automated retrieval of POD, shipment status, and lane details, generating structured outputs for monitoring and reporting.
 
