@@ -1,5 +1,10 @@
 # 🚀 Project Vista – Automation Solution
 
+🔒 Code & Data Availability
+Due to the use of API keys and sensitive operational data, the full implementation and datasets are not included in this public repository. A sanitized version of the code and sample outputs can be prepared upon request.
+
+💻 Demo or walkthrough can be provided if needed.
+
 ## 📌 Overview
 Developed an automation solution to extract and transform unstructured shipment data (PDF/Image) into structured Excel format, improving efficiency and reducing manual processing effort.
 
